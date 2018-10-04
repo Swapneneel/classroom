@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# Modifyed by Swapneneel on 4th Oct, 2018
 
 class Assignment < ApplicationRecord
   include Flippable
